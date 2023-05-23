@@ -20,9 +20,8 @@ Decoder python
  cd D9De-DecEnc
  python2 code-max.py
 ```
-#### : FACEBOOK: D9DE.PRO 
+#### : FACEBOOK 👉 D9DE.PRO
 
- 
 
 
 ![20200808_160757](https://github.com/itzalif007/D9De-DecEnc/blob/efe5240eb272900420ecab01902d6d42c6223c29/Screenshot_2023_0523_093356.jpg)
