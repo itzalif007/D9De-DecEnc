@@ -7,20 +7,20 @@ Decoder python
 
 #### INSTALL TOOL ON TERMUX
 ```python
-$ apt update && apt upgrade
-$ apt install python
-$ pip install mechanize lolcat
-$ pip install requests bs4
-$ pip install futures
-$ apt install git
-$ git clone https://github.com/itzalif007/D9De-DecEnc
+ apt update && apt upgrade
+ apt install python
+ pip install mechanize lolcat
+ pip install requests bs4
+ pip install futures
+ apt install git
+ git clone https://github.com/itzalif007/D9De-DecEnc
 ```
 #### RUN SCRIPT
 ```python
-$ cd D9De-DecEnc
-$ python2 code-max.py
+ cd D9De-DecEnc
+ python2 code-max.py
 ```
-#### :closed_lock_with_key: KEY PASSWORD ⁉️
+#### : FACEBOOK: D9DE.PRO 
 
  
 
