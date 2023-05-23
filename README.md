@@ -7,13 +7,14 @@ Decoder python
 
 #### INSTALL TOOL ON TERMUX
 ```python
- apt update && apt upgrade
- apt install python
- pip install mechanize lolcat
- pip install requests bs4
- pip install futures
- apt install git
- git clone https://github.com/itzalif007/D9De-DecEnc
+apt update && apt upgrade
+apt install python
+pip install mechanize lolcat
+pip install requests bs4
+pip install futures
+apt install git
+apt install rich
+git clone https://github.com/itzalif007/D9De-DecEnc
 ```
 #### RUN SCRIPT
 ```python
